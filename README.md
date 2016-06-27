@@ -42,3 +42,9 @@ Developed with the following:
 * Python 2.7.5
 * Firefox 35.0.1
 
+* Windows 7
+* Python 2.7.11 - Anaconda 4.0.0 (64-bit)
+* Firefox 45.2.0
+
+Note - does not work with
+* Windows 7 / Firefox 47
